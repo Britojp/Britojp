@@ -13,6 +13,13 @@
             src="https://custom-icon-badges.demolab.com/github/followers/britojp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+       <a href="https://www.linkedin.com/in/britojp">
+        <img 
+            alt="Linkedin" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/github/followers/britojp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
