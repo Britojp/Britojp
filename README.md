@@ -41,11 +41,8 @@
 ## Estatísticas GitHub
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=britojp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="Estatísticas do GitHub"
-  />
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Britojp&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
